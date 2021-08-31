@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tapioca - a Flutter plugin for video editing
 
 Tapioca is a Flutter plugin for video editing on Android and iOS.
@@ -107,3 +108,6 @@ You can edit the video by executing `.suckUp()`.
 
 You can also support me by becoming a patron:
 https://anharu.fanbox.cc
+=======
+# Tapioca
+>>>>>>> origin/master
